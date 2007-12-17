@@ -11,7 +11,6 @@ Source0:	http://prdownloads.sourceforge.net/proxytunnel/%{name}-%{version}.tar.b
 URL:		http://proxytunnel.sourceforge.net/
 Requires:	ssh-clients
 BuildRequires:	openssl-devel
-BuildRoot:	%{_tmppath}/%{name}-%{version}-buildroot
 
 %description
 Proxytunnel is a program that connects stdin and stdout to an origin
