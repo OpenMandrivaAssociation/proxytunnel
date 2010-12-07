@@ -1,5 +1,5 @@
 %define	version	1.9.0
-%define release %mkrel 6
+%define release %mkrel 7
 
 Summary:	Proxytunnel SSH to connect through HTTPS proxies
 Name:		proxytunnel
