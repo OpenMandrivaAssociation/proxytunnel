@@ -8,7 +8,7 @@ Release:	%{release}
 License:	GPL
 Group:		Communications
 Source0:	http://prdownloads.sourceforge.net/proxytunnel/%{name}-%{version}.tar.bz2
-URL:		http://proxytunnel.sourceforge.net/
+URL:		https://proxytunnel.sourceforge.net/
 Requires:	ssh-clients
 BuildRequires:	openssl-devel
 BuildRoot:	%{_tmppath}/%{name}-%{version}-buildroot
