@@ -10,6 +10,7 @@ Group:		Communications
 Source0:	http://prdownloads.sourceforge.net/proxytunnel/%{name}-%{version}.tar.bz2
 URL:		https://proxytunnel.sourceforge.net/
 Requires:	ssh-clients
+BuildRequires:	make
 BuildRequires:	openssl-devel
 BuildRoot:	%{_tmppath}/%{name}-%{version}-buildroot
 
